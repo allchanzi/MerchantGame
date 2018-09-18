@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/TownActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/CollisionManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/PlayerActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/StateManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/DecadeButton.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/MarketState.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/display/Display.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/MouseManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/worlds/OrbisManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/Button.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/KeyManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/GameState.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/GameManager.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/ConfirmButton.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/State.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/MarketActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/OneButton.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/SawmillActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/FoundryActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/worlds/TownOrbis.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/SaveGame.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/MenuState.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/EntityActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/menu/PlayerStats.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/worlds/WorldOrbis.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/graphic/Images.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/input/HundredButton.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/worlds/Orbis.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/states/BuildingState.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/LoadGame.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/Launcher.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/actors/FarmActor.java</file>
+            <file>file:/Users/allc/Documents/JavaProjekt/MerchantGame/src/cz/mendelu/java/merchantgame/Game.java</file>
+        </group>
+    </open-files>
+</project-private>
